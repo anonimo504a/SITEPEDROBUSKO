@@ -1,3 +1,7 @@
+body{
+    background-color: #CBF3B2;
+}
+
 header {
     *{
     margin: 0;
@@ -20,6 +24,3 @@ header {
     font-size: 50px;
     text-align: center;
     }
- 
-    background-image: linear-gradient(#70eea9c2, #cae9e7);
-}
