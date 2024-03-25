@@ -1,0 +1,25 @@
+header {
+    *{
+    margin: 0;
+    padding: 0;
+}
+
+    background-color: #CBF3B2;
+    color: 675821;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.colegio-estadual{
+    font-size: 30px;
+    text-align: center;
+
+}
+    .monsenhor-pedro-busko{
+    font-size: 50px;
+    text-align: center;
+    }
+    .escola{
+    background-image: linear-gradient(#70eea9c2, #cae9e7);
+}
