@@ -28,8 +28,9 @@ header
 
     .colegio-estadual{
         color: #675821;
+        font-style: italic;
     }
     .monsenhor-pedro-busko{
         color: #3DA75B;
-       text-shadow: #051102;
+      font-style: italic;
     }
