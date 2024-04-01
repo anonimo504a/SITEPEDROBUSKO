@@ -1,5 +1,8 @@
 
-
+*{
+  margin: 0;
+  padding: 0;
+}
 header 
     {
   background-color: #CBF3B2;
@@ -7,6 +10,7 @@ header
     padding: 0;
     display: flex;
     justify-content: space-around;
+    padding: 24px;
 }
 
 
