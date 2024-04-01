@@ -1,5 +1,5 @@
+
 body{
-    background-color: #CBF3B2;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -10,6 +10,7 @@ body{
 
 header 
     {
+  background-color: #CBF3B2;
     margin: 0;
     padding: 0;
 }
@@ -28,7 +29,7 @@ header
 
     .colegio-estadual{
         color: #675821;
-        font-style: inherit;
+        font-style: italic;
     
     }
     .monsenhor-pedro-busko{
