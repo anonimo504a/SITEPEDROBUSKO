@@ -25,6 +25,7 @@ header
         color: #675821;
         font-style: italic;
         justify-content: space-around;
+        display: flex;
     
     }
     .monsenhor-pedro-busko{
