@@ -18,26 +18,18 @@ header
 .colegio-estadual{
     font-size: 30px;
     text-align: center;
+    color: #675821;
+        font-style: italic;
+        justify-content: space-around;
 
 }
     .monsenhor-pedro-busko{
     font-size: 50px;
     text-align: center;
+    color: #3DA75B;
+    font-style: italic;
     }
-
-    .colegio-estadual{
-        color: #675821;
-        font-style: italic;
-        justify-content: space-around;
-        text-align: right;
-       
     
-    }
-    .monsenhor-pedro-busko{
-        color: #3DA75B;
-      font-style: italic;
-     
-    }
     
     .cabecalho-lista-item{
       display: inline-block;
