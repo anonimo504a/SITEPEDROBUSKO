@@ -41,10 +41,18 @@ header
     }
 
     .texto-1{
-      background-color: #89d1b8;
+      background-color: #89d1b8a2;
       margin-left: 200px;
       margin-right: 1100px;
       margin-top: 200px;
+      block-size: 150px;
+    }
+
+    .texto-2{
+      background-color: #6eecf5a6;
+      margin-left: 600px;
+      margin-right: 200px;
+      margin-top: 600px;
       block-size: 150px;
     }
     
