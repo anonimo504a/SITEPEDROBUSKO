@@ -45,6 +45,7 @@ header
       margin-left: 200px;
       margin-right: 1100px;
       margin-top: 200px;
+      block-size: 50px;
     }
     
     body{
