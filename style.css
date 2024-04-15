@@ -58,7 +58,7 @@ header
       block-size: 150px;
       font-size: 35px;
       font-style: italic;
-      display: inline;
+      display: inline-block;
     }
     
     body{
