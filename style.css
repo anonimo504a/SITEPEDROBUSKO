@@ -48,6 +48,9 @@ header
       margin-right: 1000px;
       margin-top: 200px;
       block-size: 150px;
+      padding: 20px;
+      font-style: italic;
+      font-size: 30px;
     }
 
     .texto-2{
