@@ -92,6 +92,13 @@ header
       font-style: italic;
     
     }
+
+    .imagem-colégio{
+      width: 20%;
+      margin-top: 50px;
+      margin-left: 900px;
+      margin-right: 200px;
+    }
     
     body{
       background-color: #efffe5;
