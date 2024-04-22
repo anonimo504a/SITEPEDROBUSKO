@@ -77,11 +77,3 @@ header
       background-color: #efffe5;
     }
 
-    #quadrado {
-      background: #FB8686;
-      width: 100px;
-      height: 300px;
-      shape-outside: inset(20px 5px 30px 10px);
-  }
-
-
