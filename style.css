@@ -28,7 +28,7 @@ header
     font-size: 100px;
     text-align: center;
     color: #3DA75B;
-    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #051102;
     font-style: italic;
     
