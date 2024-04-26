@@ -101,15 +101,11 @@ header
     }
 
     .imagem-colégio{
-      width: 20%;
-      margin-top: -500px;
+      width: 50%;
+      margin-bottom: 1000px;
       margin-left: 900px;
       margin-right: 200px;
-    }
-
-    .imagem-colégio{
-      width: 30%;
-      margin-bottom: 1000px;
+    
     }
     
     body{
