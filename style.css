@@ -111,7 +111,5 @@ header
       background-color: #efffe5;
     }
 
-    @media only screen and (max-device-width: 1000px) {
-      /* .menu { width:100%; } */
-      }
-
+    @media only screen and (max-device-width: 1000px) 
+      
