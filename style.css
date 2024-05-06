@@ -118,6 +118,7 @@ header
       margin-top: 145px;
       display: flex;
       padding-right: 30px;
+      padding-left: 30px;
       
     }
 
@@ -126,5 +127,6 @@ header
       margin-top: 5px;
       display: flex;
       padding-right: 30px;
+      padding-left: 30px;
    }
       
