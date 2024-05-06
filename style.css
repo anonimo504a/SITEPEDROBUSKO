@@ -113,6 +113,10 @@ header
       background-color: #efffe5;
     }
 
+    .alunos{
+      font-size: 50px;
+     }
+
     .estudantes{
       margin-right: 170px;
       margin-top: 155px;
@@ -129,9 +133,3 @@ header
       padding-right: 30px;
       padding-left: 30px;
    }
-
-   .alunos{
-    font-size: 50px;
-    margin-left: 200px;
-   }
-      
