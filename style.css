@@ -122,8 +122,9 @@ header
     }
 
    .estudantes2{
-      margin-right: 100px;
+      margin-right: 170px;
       margin-top: 15px;
       display: flex;
+      padding: 30px;
    }
       
